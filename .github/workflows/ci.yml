@@ -38,3 +38,4 @@ jobs:
         node --check src/services/academiaClient.js
         node --check src/services/odAuditor.js
         node --check src/services/clashSimulator.js
+

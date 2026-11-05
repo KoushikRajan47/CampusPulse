@@ -80,3 +80,4 @@ npx expo start
    cd frontend && npm run build
    ```
 4. **Open a Pull Request** with a detailed explanation of your changes.
+

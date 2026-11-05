@@ -110,3 +110,4 @@ Contributions are warmly welcomed! Please check out [CONTRIBUTING.md](./CONTRIBU
 
 ## 📜 License
 Distributed under the **MIT License**. See [LICENSE](./LICENSE) for details.
+
